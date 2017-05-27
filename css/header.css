@@ -1,0 +1,79 @@
+
+
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 62px;
+	width: 100%;
+	color: #04625c;
+	background:  white;
+}
+
+.header-container {
+
+}
+
+.logo-contianer {
+	margin-left: 100px;
+	position: relative;
+	float: left;
+	padding: 5px 5px 0 5px;	
+}
+
+.logo {
+	position: relative;
+	float: left; 
+}
+
+.logo-text {
+	position: relative;
+	float: left;
+	line-height: 30px;
+	margin-left: 10px;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+.punch-line {
+	clear: both;
+	font-family: cursive;
+	padding: 0px 5px;
+	font-size: 17px;
+	margin-left: 100px;
+	padding-bottom: 10px;
+}
+
+.header-options {
+	position: relative;
+	clear: both;
+	width: 100%;
+	text-align: center;
+	border-bottom : 1px solid #e4e4e4 !important;
+	box-shadow : 0 3px 5px rgba(0, 0, 0, 0.1) !important
+}
+
+.header-options span{
+	margin : 0px 10px;
+	font-size: 16px;
+	font-family: cursive;
+}
+
+.header-options span.selected {
+	border-bottom: 3px solid #04625c;
+}
+
+.social-actions {
+	position: fixed;
+	float: right;
+	top: 0;
+	right: 100px;
+	padding: 17px;
+}
+
+
+
+.social-actions .fa:before {
+	font-size: 28px;
+	margin-left: 5px;
+}

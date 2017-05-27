@@ -1,0 +1,26 @@
+{
+  "name": "efeehtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicksp/redux-webpack-es6-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicksp/redux-webpack-es6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nicksp/redux-webpack-es6-boilerplate#readme",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.0.0"
+  }
+}
