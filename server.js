@@ -4,7 +4,7 @@ var app = express();
 
 app.use(express.static(__dirname + '/templates'));
 app.use('/styles', express.static(__dirname + '/css'));
-
+app.use('/images', express.static(__dirname + '/images'));
 
 app.get('/', function (req, res) {
   res.sendFile('index.html');
