@@ -1,8 +1,60 @@
+
+footer {
+	bottom : 0;
+	width: 100%;
+}
+
 .payment-sources {
 	padding: 30px;
-	background: ##f7f7f7;
+	font-family: cursive;
+	background: #f7f7f7;
+	font-weight: 100;
+	line-height: 38px;
+}
+
+.payment-images {
+	text-align: right;
 }
 
 .payment-images img{
-	height: 100px;
+	height: 38px;
+}
+
+.secure-payment-text {
+	text-align: right;
+	margin-right: 10px;
+}
+
+.efee-original-logo {
+	float: left;
+	height: 38px;
+}
+
+.footer-container {
+	padding: 30px;
+	background: #414141;
+	color : white;
+}
+
+.sub-footer {
+	font-family: cursive;
+	font-size: 12px;
+	display: table-cell;
+	width: 10%;
+}
+
+.footer-title {
+	font-weight: bold;
+	padding: 10px; 
+}
+
+.footer-sub-item {
+	color : #e5e5e5;
+	padding: 5px 5px 5px 10px;
+}
+
+.sinwin-text { 
+	float: left;
+	line-height: 85px;
+	font-size: 12px;
 }
