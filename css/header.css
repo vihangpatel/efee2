@@ -8,10 +8,11 @@ header {
 	width: 100%;
 	color: #04625c;
 	background:  white;
+	z-index: 1000;
 }
 
 .header-container {
-
+	background: white;
 }
 
 .logo-contianer {
@@ -42,6 +43,7 @@ header {
 	font-size: 17px;
 	margin-left: 100px;
 	padding-bottom: 10px;
+	background: white;
 }
 
 .header-options {
@@ -49,6 +51,8 @@ header {
 	clear: both;
 	width: 100%;
 	text-align: center;
+	z-index: 1000;
+	background: white;
 	border-bottom : 1px solid #e4e4e4 !important;
 	box-shadow : 0 3px 5px rgba(0, 0, 0, 0.1) !important
 }
