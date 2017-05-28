@@ -1,0 +1,69 @@
+
+#book-efee {
+	position: relative;
+	margin-top: 200px;
+	padding: 50px 80px;
+	background: #04625c;
+	color : white;
+	font-family: cursive;
+}
+
+.connect-to-efee {
+	width: 50%;
+}
+
+.illustration {
+	position: absolute;
+	top: 0;
+	right : 0;
+	padding: 50px;
+	width: 30%;
+}
+
+.show-option {
+	padding: 20px 0;
+	line-height: 48px;
+	height: 48px;
+}
+
+.sub-option-text {
+	line-height: 48px;
+	float: left;
+	margin-left: 20px;
+}
+
+.show-option .fa {
+	float: left;
+}
+
+.get-info {
+	display: inline-block;
+	color : #04625c;
+	margin-top: 30px;
+}
+
+.country-code {
+	float: left;
+	line-height: 30px;
+	background: #e5e5e5;
+	padding: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.mobile-input {
+	float: left;
+	height: 38px;
+	border: none;
+	font-family: cursive;
+
+}
+
+.submit-btn {
+	float: left;
+	background: #e5e5e5;
+	line-height: 30px;
+	padding: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
